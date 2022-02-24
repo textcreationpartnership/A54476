@@ -1,0 +1,965 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The third satyr of A. Persius in way of a dialogue or dramatick interlude between the serious, careful tutor and his inconsiderate, slothful pupil / rendred paraphrastically into English, and humbly recommended to the serious consideration and perusal as well of all young gentlemen as other of meaner quality whilst under tutelage and inspection of parents, governours and teachers by F.A.</title>
+            <title>Satirae. Selections. English. 1685</title>
+            <author>Persius.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54476</idno>
+            <idno type="STC">Wing P1664</idno>
+            <idno type="STC">ESTC R31794</idno>
+            <idno type="EEBO-CITATION">12257338</idno>
+            <idno type="OCLC">ocm 12257338</idno>
+            <idno type="VID">57572</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54476)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57572)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1510:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The third satyr of A. Persius in way of a dialogue or dramatick interlude between the serious, careful tutor and his inconsiderate, slothful pupil / rendred paraphrastically into English, and humbly recommended to the serious consideration and perusal as well of all young gentlemen as other of meaner quality whilst under tutelage and inspection of parents, governours and teachers by F.A.</title>
+                  <title>Satirae. Selections. English. 1685</title>
+                  <author>Persius.</author>
+                  <author>F. A.</author>
+               </titleStmt>
+               <extent>[1], 14 [i.e. 28] p.   </extent>
+               <publicationStmt>
+                  <publisher>[Sold by Nath. Ponder,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>English and Latin on facing pages with duplicate numbering.</note>
+                  <note>Imprint lacking, information supplied by Wing.</note>
+                  <note>Imperfect: pages cropped with loss of print. Best copy available for photographing.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:57572:1"/>
+            <pb facs="tcp:57572:1" rendition="simple:additions"/>
+            <p>THE THIRD SATYR OF A. PERSIUS, IN WAY OF A DIALOGUE, OR, Dramatick INTERLUDE BETWEEN THE Serious, Careful TUTOR, and his In<g ref="char:EOLhyphen"/>conſiderate Slothfull PUPIL.</p>
+            <p>Rendred Paraphraſtically into <hi>Engliſh;</hi> and hum<g ref="char:EOLhyphen"/>bly Recommended to the Serious Conſidera<g ref="char:EOLhyphen"/>tion and Peruſal, as well of all young Gentle<g ref="char:EOLhyphen"/>men, as others of meaner Quality, whilſt un<g ref="char:EOLhyphen"/>der Tutelage and Inſpection of PARENTS, GOVERNOURS and TEACHERS.</p>
+            <p>By <hi>F. A.</hi>
+            </p>
+            <q>Laudamus Monitores, ſed odimus.</q>
+            <p>
+               <hi>LONDON,</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div xml:lang="lat" type="part">
+            <pb n="1" facs="tcp:57572:2"/>
+            <head>A. PERSII Increpatio, &amp;c.</head>
+            <sp>
+               <speaker>Tut.</speaker>
+               <l>NEmpe haec aſſidue? jam clarum mane Fe<g ref="char:EOLhyphen"/>neſtra</l>
+               <l>Intrat, et anguſtas extendit lumine Rimas.</l>
+               <l>Stertimus, indomitum quod deſpumare Falernum</l>
+               <l>Sufficiat, quintâ dum Linea tangitur umbrâ:</l>
+               <l>En quid agis? ſiccas inſana Canicula Meſſes</l>
+               <l>Jamdudum coquit, &amp; patulâ pecus omne ſub <g ref="char:V">Ʋ</g>lmo eſt —</l>
+            </sp>
+            <sp>
+               <speaker>Diſcip.</speaker>
+               <l>— Verumne? itane? ocyus adſit</l>
+               <l>Huc aliquis. Nemon? turgeſcit vitrea bilis:</l>
+               <l>Findor. —</l>
+            </sp>
+            <pb n="2" facs="tcp:57572:3"/>
+            <sp>
+               <speaker>Tut.</speaker>
+               <lg>
+                  <l>— <g ref="char:V">Ʋ</g>t Arcadiae pecuaria rudere credas.</l>
+                  <l>Jam liber, &amp; bicolor, poſitis Membrana Capillis,</l>
+                  <l>Inque manus Chartae, nodoſaque venit Arundo.</l>
+               </lg>
+               <lg>
+                  <l>Tunc querimur, craſſus Calamo quod pendeat humor,</l>
+                  <l>Nigra quod infuſa vaneſcat ſepia lympha;</l>
+                  <l>Dilutas querimur geminet quod fiſtula guttas.</l>
+               </lg>
+               <lg>
+                  <l>O miſer, inque dies ultra miſer! huccine rerum</l>
+                  <l>Venimus? at cur non potius, teneroque Columbo,</l>
+                  <l>Et ſimilis Regum pueris, paeppare minutum</l>
+                  <l>Poſcis, &amp; iratus Mammae lallare recuſas?</l>
+               </lg>
+            </sp>
+            <pb n="3" facs="tcp:57572:4"/>
+            <sp>
+               <speaker>Diſcip.</speaker>
+               <p>An tali ſtudeam Calamo? —</p>
+            </sp>
+            <sp>
+               <speaker>Tut.</speaker>
+               <lg>
+                  <l>—Cui verba? quid iſtas</l>
+                  <l>Succinis Ambages?—</l>
+               </lg>
+               <lg>
+                  <l>—Tibi luditur:—Effluis amens,</l>
+                  <l>Contemnêre.—</l>
+                  <l>—ſonat Vitium percuſſa, maligne,</l>
+                  <l>Reſpondet viridi non coct a fidelia limo.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <g ref="char:V">Ʋ</g>dum &amp; molle lutum es: nunc nunc properandus, &amp; acri</l>
+                  <l>Fingendus, ſine fine, rota.—</l>
+               </lg>
+               <lg>
+                  <l>—Sed rure paterno</l>
+                  <l>Eſt tibi far modicum, purum, &amp; ſine labe Salinum.</l>
+                  <l>Quid metuas? cultrixque foci ſecura patella eſt.</l>
+               </lg>
+               <lg>
+                  <l>Hoc ſatis?—an deceat pulmonem rumpere ventis,</l>
+                  <l>Stemmate quod Thuſco ramum milleſime ducis;</l>
+                  <l>Cenſoremve tuum vel quod Trabeate ſalutas?</l>
+               </lg>
+               <pb n="4" facs="tcp:57572:5"/>
+               <lg>
+                  <l>Ad populum Phaleras!—</l>
+                  <l>—Ego te intus &amp; incute novi.</l>
+               </lg>
+               <lg>
+                  <l>Non pudet ad morem diſcincti vivere Natte?</l>
+                  <l>Sed ſtupet Hic vitio, &amp; fibris increvit opimum</l>
+                  <l>Pingue,—</l>
+               </lg>
+               <lg>
+                  <l>—caret culpa, neſcit quid perdat, &amp; alto</l>
+                  <l>Demerſus, ſummá rurſus non bullit in undâ.</l>
+               </lg>
+               <lg>
+                  <l>Magne Pater Divum, ſaevos punire Tyrannos</l>
+                  <l>Haud aliâ ratione velis,<note place="margin">paena Damni.</note> cum dira libido</l>
+                  <l>Moverit ingenium ferventi tincta veneno.</l>
+               </lg>
+               <lg>
+                  <l>Virtutem videant, intabeſcantque relicta.</l>
+               </lg>
+               <lg>
+                  <l>Anne magis Siculi gemuerunt aera Juvenci,<note place="margin">paena ſenſûs.</note>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Aut magis auratis pendens laquearibus enſis</l>
+                  <l>Purpureas ſubter cervices, terruit; Imus,</l>
+                  <l>Imus praecipites, quam ſi ſibi dicat, &amp; intus</l>
+                  <l>Palleat infoelix, quod proxima neſciat <g ref="char:V">Ʋ</g>xor?</l>
+               </lg>
+               <pb n="5" facs="tcp:57572:6"/>
+               <lg>
+                  <l>Saepe oculos, memini, tingebam parvus Olive</l>
+                  <l>Grandia ſi nollem morituri verba Catonis</l>
+                  <l>Diſcere, ab inſano multum laudanda Magiſtro,</l>
+               </lg>
+               <lg>
+                  <l>Quae Pater, adductis, ſudans audiret, amicis.</l>
+               </lg>
+               <lg>
+                  <l>Jure etenim id ſummum; quid dexter ſenio ferret,</l>
+                  <l>Scire erat in votis, damnoſa Canicula quantum</l>
+                  <l>Raderet; anguſtae collo non fallier Orcae.</l>
+               </lg>
+               <lg>
+                  <l>Neu quis callidior—</l>
+                  <l>—Buxum torquere flagello.</l>
+               </lg>
+               <lg>
+                  <l>Haud tibi inexpertum curvos deprendere mores,</l>
+               </lg>
+               <lg>
+                  <l>Quaeque docet ſapiens, braccatis illita Medis</l>
+                  <l>Porticus, inſomnis quibus &amp; detonſa Juventus</l>
+                  <l>Invigilat, ſiliquis, &amp; grandi paſta polentâ.</l>
+               </lg>
+               <pb n="6" facs="tcp:57572:7"/>
+               <lg>
+                  <l>Et tibi quae Samios diduxit litera ramos,</l>
+                  <l>Surgentem dextro monſtravit limite Callem.</l>
+                  <l>Stertis adhuc?—</l>
+                  <l>—Laxumque caput, compage ſolutâ,</l>
+                  <l>Oſcitat heſternum, diſſutis undique malis?</l>
+               </lg>
+               <lg>
+                  <l>Eſt aliquid, quò tendis?—</l>
+                  <l>—Et in quod dirigis arcum?</l>
+               </lg>
+               <lg>
+                  <l>An paſſim ſequeris corvos teſtáque, lutoque,</l>
+                  <l>Securus quo pes ferat,—</l>
+                  <l>—atque extempore vivis?</l>
+               </lg>
+               <lg>
+                  <l>Helleborum fruſtrà, cum jam cutis aegra tumebit,</l>
+                  <l>Poſcentes videas,—venienti occurrite morbo.</l>
+               </lg>
+               <lg>
+                  <l>Et quid opus Cratero magnos promittere Mentes?</l>
+               </lg>
+               <pb n="7" facs="tcp:57572:8"/>
+               <lg>
+                  <l>Diſciteque, O miſeri,—</l>
+                  <l>—&amp; cauſas cognoſcite rerum,</l>
+               </lg>
+               <lg>
+                  <l>Quid ſumus, aut quidnam victuri gignimur—</l>
+                  <l>—ordo</l>
+               </lg>
+               <lg>
+                  <l>Quis datus,—</l>
+                  <l>—aut metae quam mollis flexus,—</l>
+                  <l>—&amp; unde:</l>
+               </lg>
+               <lg>
+                  <l>Quis modus Argento,—</l>
+               </lg>
+               <lg>
+                  <l>—quid fas optare; quid aſper</l>
+                  <l>
+                     <g ref="char:V">Ʋ</g>tile nummus habet; patriae, chariſque propinquis</l>
+                  <l>Quantum elargiri deceat:—</l>
+               </lg>
+               <lg>
+                  <l>—quem te Deus eſſe</l>
+                  <l>Juſſit, &amp; humanâ quâ parte locatus es in re.</l>
+                  <l>Diſce:—</l>
+               </lg>
+               <lg>
+                  <l>—Nec invideas, quod multa fidelia putet</l>
+                  <l>In locuplete penu,—</l>
+                  <l>—defenſis pinguibus umbris,</l>
+                  <l>Et piper, &amp; Pernae Marſi monumenta Clientis;</l>
+                  <l>Moenaque quod primâ nondum defecerit Orcâ.</l>
+               </lg>
+               <pb n="8" facs="tcp:57572:9"/>
+               <lg>
+                  <l>Heic, aliquis de gente hircoſâ Centurionum</l>
+                  <l>Dicat:—</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Centurio.</speaker>
+               <lg>
+                  <l>—Quod ſapio ſatis eſt mihi;—</l>
+                  <l>—non ego curo</l>
+                  <l>Eſſe quod Arceſilas, aerumnoſique Solones:</l>
+                  <l>Obſtipo capite, &amp; figentes lumine terram,</l>
+                  <l>Murmura cum ſecum, &amp; rabioſa ſilentia rodunt.</l>
+                  <l>Atque exporrecto trutinantur verba labello,</l>
+                  <l>Aegroti veteris meditantes Somnia:—Gigni</l>
+                  <l>De Nihilo Nihil;—in Nihilum Nil poſſe reverti.</l>
+               </lg>
+               <lg>
+                  <l>Hoc eſt, quod palles,—cur quis non prandeat hoc eſt?</l>
+               </lg>
+               <lg>
+                  <l>His populus ridet;—multùmque Toroſa Juventus</l>
+                  <l>Ingeminat tremulos, Naſo Criſpante, Cachinnos.</l>
+               </lg>
+            </sp>
+            <pb n="9" facs="tcp:57572:10"/>
+            <sp>
+               <speaker>Aegrotus.</speaker>
+               <lg>
+                  <l>Inſpice; neſcio quid trepidat mihi Pec<g ref="char:EOLhyphen"/>tus, &amp; aegris</l>
+                  <l>Faucibus exſuperat gravis halitus;—Inſpice ſodes,</l>
+                  <l>Qui dicit Medico,—</l>
+               </lg>
+               <lg>
+                  <l>—Juſſus requieſcere,—</l>
+                  <l>—Poſtquam</l>
+                  <l>Tertia compoſitás vidit nox currere venas,</l>
+               </lg>
+               <lg>
+                  <l>De majore domo, modicè ſitiente lagenâ,</l>
+                  <l>Lenia loturo ſibi Surrentina rogavit.</l>
+               </lg>
+            </sp>
+            <pb n="10" facs="tcp:57572:11"/>
+            <sp>
+               <speaker>Medicus.</speaker>
+               <p>Heus bone, tu palles.—</p>
+            </sp>
+            <sp>
+               <speaker>Aegrotus.</speaker>
+               <p>—Nihil eſt.—</p>
+            </sp>
+            <sp>
+               <speaker>Medicus.</speaker>
+               <l>—Videas tamen iſtud?</l>
+               <l>Quicquid id eſt. Surgit tacitè tibi lutea pellis.</l>
+            </sp>
+            <sp>
+               <speaker>Aegrot.</speaker>
+               <l>At tu deteriùs palles:—Ne ſis mihi Tutor:</l>
+               <l>Jampridem hunc ſepeli; tu reſtas.—</l>
+            </sp>
+            <sp>
+               <speaker>Medicus.</speaker>
+               <p>—Perge, tacebo.</p>
+            </sp>
+            <sp>
+               <speaker>Tut.</speaker>
+               <lg>
+                  <l>Turgidus hic Epulis, atque albo ventre—</l>
+                  <l>—Lavatur.</l>
+               </lg>
+               <lg>
+                  <l>Gutture ſulfureas lentè exhalante Mephites.</l>
+                  <l>Sed tremor inter vina ſubit, calidumque trientem</l>
+                  <l>Excutit è manibus.—</l>
+               </lg>
+               <pb n="11" facs="tcp:57572:12"/>
+               <lg>
+                  <l>—Dentes Crepuere retecti.</l>
+                  <l>
+                     <g ref="char:V">Ʋ</g>ncta cadunt laxis tunc pulmentaria labris.</l>
+               </lg>
+               <lg>
+                  <l>Hinc Tuba, Candelae; tandemque Beatulus ille</l>
+                  <l>Compoſitus Lecto, Craſſiſque lutatus amomis,</l>
+                  <l>In portam rigidos calces extendit:—</l>
+               </lg>
+               <lg>
+                  <l>—At illum</l>
+                  <l>Heſterni, capite induto, ſubiêre Quirites.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Diſcip.</speaker>
+               <l>Tange, miſer, venas, &amp; pone in pectore dextram.</l>
+               <pb n="12" facs="tcp:57572:13"/>
+               <l>Nil calet hîc;—</l>
+               <l>—Summoſque pedes attinge, manuſque;</l>
+               <l>Non frigent.—</l>
+            </sp>
+            <sp>
+               <speaker>Tut.</speaker>
+               <lg>
+                  <l>—Viſa eſt ſi fortè pecunia;—</l>
+               </lg>
+               <lg>
+                  <l>—Sive</l>
+                  <l>Candida Vicini ſubriſit molle puella;</l>
+               </lg>
+               <lg>
+                  <l>Cor tibi ritè ſalit?—</l>
+                  <l>—Poſitum eſt algente Catinâ</l>
+                  <l>Durum Olus, &amp; populi Cribro decuſſa Farina;</l>
+               </lg>
+               <pb n="13" facs="tcp:57572:14"/>
+               <lg>
+                  <l>Tentemus fauces: Tenero latet <g ref="char:V">Ʋ</g>lcus in ore</l>
+                  <l>Putre, quod haud deceat plebeïâ radere betâ.</l>
+               </lg>
+               <lg>
+                  <l>Alges, cum excuſſit membris Timor albus ariſtas.</l>
+               </lg>
+               <lg>
+                  <l>Nunc face ſuppoſitâ, ferveſcit Sanguis, &amp; Ira</l>
+                  <l>Scintillant Oculi:—</l>
+                  <pb n="14" facs="tcp:57572:15"/>
+                  <l>—Diciſque, faciſque,—</l>
+               </lg>
+               <lg>
+                  <l>—quod ipſe,</l>
+                  <l>Non ſani eſſe hominis, non ſanus juret <hi>Oreſtes.</hi>
+                  </l>
+               </lg>
+            </sp>
+            <trailer>
+               <hi>Explicit</hi> A. Perſii <hi>Satyra Tertia.</hi>
+            </trailer>
+         </div>
+         <div xml:lang="eng" type="part">
+            <pb n="1" facs="tcp:57572:2"/>
+            <head>THE THIRD SATYR OF <hi>A. PERSI<g ref="char:V">Ʋ</g>S,</hi> &amp;c.</head>
+            <sp>
+               <speaker>Tut.</speaker>
+               <l>STill the old wont!—For ſhame, rouſe up, and ſee,</l>
+               <l>The bluſhing Morn upbraids thy Lethargie;</l>
+               <l>The Sun thy Sloth bewrays, with his broad Light</l>
+               <l>Wid'ning the narrow Chinks to, <hi>force</hi> thy Sight.</l>
+               <l>We ſnore, till the fifth ſhadow clouds the Line,</l>
+               <l>Enough t' evaporate the ſtrongeſt Wine.</l>
+               <l>Rouze up, for ſhame; the <hi>Dog-ſtar</hi> long hath beat</l>
+               <l>Upon the parched Fields with raging heat:</l>
+               <l>The fainted Herds for ſhelter cool do hie</l>
+               <l>To the next bordering ſhady <hi>Elm,</hi> they ſpie.</l>
+            </sp>
+            <sp>
+               <speaker>Diſc.</speaker>
+               <l>But ſpeak in earneſt;—is't indeed—ſo late?</l>
+               <l>Abominable Sluggard!—ô,—I hate—</l>
+               <l>This <hi>Canker-worm</hi> of precious Time, —Foul Sloth,</l>
+               <l>The Bane of Studies, and ſound Manners both—</l>
+               <pb n="2" facs="tcp:57572:3"/>
+               <l>But— is't indeed ſo late?—ſome-body then</l>
+               <l>Come hither—quickly,—reach my Cloaths,— why when!</l>
+               <l>No body come!—O—I am ſplit with Ire!—</l>
+               <l>My Choler ſwells, my Eyes are all on Fire.</l>
+            </sp>
+            <sp>
+               <speaker>Tut.</speaker>
+               <lg>
+                  <l>Some great <hi>Arcadian</hi> Beaſt Thus might you hear,</l>
+                  <l>To yell, and bray, when hungry,—or through fear.</l>
+               </lg>
+               <lg>
+                  <l>After ſome Pauſe,—with much a-do,—at laſt,</l>
+                  <l>Comes me his Book in hand;—and then in haſte,</l>
+                  <l>His Paper with two-colour'd Parchment,—and,</l>
+                  <l>His knotty Reed are brought him at command.—</l>
+                  <l>Now we complain,—our Pen's ſtark naught;—and then,—</l>
+                  <l>Our Ink's too thick;—it ſticks upon the Pen:—</l>
+                  <l>Put water in't;—and then— the <hi>ſepian</hi> Juice</l>
+                  <l>Too white and waſhy writes,—and too profuſe;—</l>
+                  <l>Writes double,—blurrs the Letters.—And ſtill— thus,—</l>
+                  <l>Thinks by theſe idle ſhifts,—to baffle us. —</l>
+                  <l>Ignoble—wretched Youth!—art come to this?</l>
+                  <l>To <hi>Melt</hi> in Vice,—and <hi>Love</hi> to do amiſs!</l>
+                  <l>Prethee, why doſt not, like an unfledg'd Dove,</l>
+                  <l>Dr tender Babe of ſome nice Madam, love</l>
+                  <l>Thy Mam ſhould dandle thee upon her Lap,</l>
+                  <l>Feed thee with ſweet-Meats, and ſoft ſugar'd Pap<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>Dr n'angry with thy Teat, wriggle and cry,</l>
+                  <l>And kick and ſprawl at her ſoft Lullaby?</l>
+               </lg>
+            </sp>
+            <pb n="3" facs="tcp:57572:4"/>
+            <sp>
+               <speaker>Diſcip.</speaker>
+               <p>I pray, Sir, who can write with ſuch a Quill?</p>
+            </sp>
+            <sp>
+               <speaker>Tut.</speaker>
+               <lg>
+                  <l>And wilt thou with thy Shams be fooling ſtill?</l>
+                  <l>Alas! whom doſt thou mock?—it is not me:</l>
+                  <l>It is thy ſelf thou mock'ſt,—and <hi>wilt</hi> not ſee.</l>
+                  <l>Th'art like a crazed earthen Jar that leaks,</l>
+                  <l>Which, when the Potter ſoundeth it, he breaks:</l>
+                  <l>And ſo ſhalt <hi>Thou</hi> be ſcorn'd as <hi>refuſe</hi> Stuff,</l>
+                  <l>By all <hi>Contemn'd,</hi> and <hi>vaniſh</hi> in a <hi>Snuff.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Diſcourage thee I will not, for all that,</l>
+                  <l>The way to manners good is ne'r too late.</l>
+                  <l>
+                     <hi>Yet</hi> thou art ſoft,—moiſt Clay,—<hi>now, now</hi>'s the time</l>
+                  <l>To <hi>mold</hi> and <hi>faſhion</hi> thee,—in <hi>this</hi> thy Prime.</l>
+                  <l>
+                     <hi>Dare</hi> to be good;—and <hi>Vertue</hi> be thy Guide;</l>
+                  <l>No way to daring Vertue is deny'd.</l>
+                  <l>
+                     <hi>Now</hi> 'tis, or never, thou the moiſt Clay, muſt feel</l>
+                  <l>Sound Diſcipline's effigiating Wheel.—</l>
+               </lg>
+               <lg>
+                  <l>But, you will ſay,—I am my Father's Heir;—</l>
+                  <l>Born to a <hi>Fair Eſtate;</hi> what need <hi>I</hi> care?</l>
+                  <l>
+                     <hi>I</hi> have beſides rich Plate and Houſhold-ſtuff,</l>
+                  <l>In ready Caſh what Heart can wiſh, enough.</l>
+               </lg>
+               <lg>
+                  <l>And think'ſt thou this enough?—wilt there<g ref="char:EOLhyphen"/>fore ſwell,</l>
+                  <l>And burſt thy Lungs—ambitiouſly to tell</l>
+                  <l>That thou the thouſandth of thy Pedigree</l>
+                  <l>Doſt fetch from <hi>Thuſcan</hi> high Nobility:</l>
+                  <l>And when thou meet'ſt <hi>Rome</hi>'s <hi>Cenſor</hi> all in State,</l>
+                  <l>Boldly careſs him as thy Intimate?</l>
+               </lg>
+               <pb n="4" facs="tcp:57572:5"/>
+               <lg>
+                  <l>Away,—<hi>fond Fool!</hi>—go <hi>prance</hi> before the <hi>Rout,</hi>
+                  </l>
+                  <l>In theſe thy <hi>Trappings,</hi> for the <hi>vulgar</hi> ſhout:</l>
+                  <l>
+                     <hi>I</hi> know thy <hi>inſide better,</hi>—nor can be</l>
+                  <l>Deluded by thy <hi>out-ſide Sophiſtry.</hi>
+                  </l>
+                  <l>Art not aſham'd to live <hi>thus</hi> at the <hi>rate</hi>
+                  </l>
+                  <l>Of <hi>lewd confounded Natta?—Yet his Fate</hi>
+                  </l>
+                  <l>Yields <hi>ſome Excuſe;—He wants</hi> a Senſe within;</l>
+                  <l>Has no <hi>reſtraint</hi> upon him,—<hi>not</hi> to <hi>ſin:</hi>—</l>
+                  <l>He ſtands amaz'd in Vice, —nor can he tell</l>
+                  <l>When he does ought amiſs,—nor when 'tis well.</l>
+                  <l>
+                     <hi>His</hi> Heart's <hi>ſo clos'd</hi> in <hi>Fat</hi> and <hi>Brawn,</hi> that he</l>
+                  <l>Sins more of <hi>Ignorance</hi> than <hi>Induſtry.</hi>
+                  </l>
+                  <l>
+                     <hi>He</hi>'s gone,—<hi>he</hi>'s <hi>ſunk—down</hi> to the depth of <hi>Vice;</hi>
+                  </l>
+                  <l>From <hi>whence</hi> he ne'r again muſt hope to riſe.</l>
+               </lg>
+               <lg>
+                  <l>Great <hi>Sovereign</hi> of the Skies,—vouchſafe but thus</l>
+                  <l>To ſcourge the Pride of Tyrants:—</l>
+                  <l>—For once—</l>
+                  <l>Let them <hi>behold fair Vertues</hi> Face;<note place="margin">poena damni.</note> then <hi>ſee</hi>
+                  </l>
+                  <l>In <hi>her</hi> loſt Grace, their loſt Felicity,—</l>
+                  <l>And then <hi>turn pale,</hi>—and <hi>pine</hi> away, and <hi>dye.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Ne'r did the <hi>brazen,</hi>
+                     <note place="margin">poena ſenſus.</note> hot <hi>Sicilian</hi> Bull—</l>
+                  <l>Bellow his <hi>Torments</hi> from a <hi>Throat</hi> more full:</l>
+               </lg>
+               <lg>
+                  <l>Ne'r did the <hi>Sword hung</hi> by a <hi>Horſes hair</hi>
+                  </l>
+                  <l>Up in the vaulted golden Roof, <hi>ſo ſcare</hi>
+                  </l>
+                  <l>The <hi>proud</hi> crown'd—<hi>Flatterer</hi> underneath,—and <hi>make,</hi>
+                  </l>
+                  <l>With <hi>Panick Fear,</hi>—his every Limb to quake:</l>
+                  <l>As when a Man—ſhall with amazement call</l>
+                  <l>Thus to himſelf;—I fall,—O—I do fall—</l>
+                  <l>Down <hi>headlong,</hi>—headlong <hi>downwards,</hi> paſt <hi>recall!</hi>
+                  </l>
+                  <pb n="5" facs="tcp:57572:6"/>
+                  <l>And when the Wretch turns pale within, to tell</l>
+                  <l>His near dear Wife the cauſe of what's befell.</l>
+                  <l>But to return from this Digreſſion</l>
+                  <l>To th' matter I but now inſiſted on.</l>
+               </lg>
+               <lg>
+                  <l>I well remember, when I was a Child</l>
+                  <l>I'd noint my eyes with oyl,—ſo to beguild</l>
+                  <l>My fond, kind Mother,—when I had no mind</l>
+                  <l>To learn my book,—for fear't ſhould make me blind:</l>
+                  <l>It made me ſhrug, that I muſt ſay the part</l>
+                  <l>Of dying <hi>Cato</hi>'s lofty words—by heart,</l>
+                  <l>Before my Father and his Friends, which he</l>
+                  <l>Sweating, brought with him to admi-re me.</l>
+                  <l>'Twas then the top of my Ambition, how</l>
+                  <l>To play at <hi>Cheſs,</hi> or <hi>Cock-all,</hi>—or to throw</l>
+                  <l>The lucky <hi>Ams-ace,</hi> or the winning <hi>Sice;</hi>
+                  </l>
+                  <l>What Caſt would ſave, and what would win at Dice;</l>
+                  <l>Or elſe with Cherry-ſtones, or Nuts to play,</l>
+                  <l>At <hi>Chock,</hi> half in, half out, to win the day;</l>
+                  <l>And for the Scourge-ſtick none more arch could be</l>
+                  <l>To drive his Top with ſuch dexterity.</l>
+               </lg>
+               <lg>
+                  <l>Thus, when I was a Child, I childiſh things</l>
+               </lg>
+               <lg>
+                  <l>Purſu'd, and ſuch as little profit brings.</l>
+                  <l>But <hi>now</hi> thou art not at <hi>theſe</hi> years to learn</l>
+                  <l>'Twixt good and bad the difference, and diſcern</l>
+                  <l>Vertue from Vice:—No; thou art taught thy Lore</l>
+                  <l>From the wiſe Porch, with picture all dawb'd ore,</l>
+                  <l>Of Trouzed <hi>M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>des;</hi> where, in the Queſt of Truth,</l>
+                  <l>Th' induſtrious cloſe-ſhorn Aſcetick Youth,</l>
+                  <pb n="6" facs="tcp:57572:7"/>
+                  <l>Contented with hard fare, and courſe b<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Ca<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</l>
+                  <l>Early and late do o're their Studies wake;</l>
+                  <l>And, unto thee, the branched <hi>Samian</hi> Y</l>
+                  <l>Points out the right hand Path to Vertue high.</l>
+               </lg>
+               <lg>
+                  <l>And art thou ſnoring ſtill, as over-charg'd</l>
+                  <l>With Wine and Surfet, crop-ſick, undiſgorg'd?</l>
+                  <l>Are thy Jaws faln? and is thy Head grown ſlack,</l>
+                  <l>Yawning, as thou wouldſt make their Frame to crack?</l>
+               </lg>
+               <lg>
+                  <l>Haſt in thine eye but any fixed end</l>
+                  <l>At which thy Shaft to aim, and Bow to bend?</l>
+                  <l>Or doſt thou rove at random here and there,</l>
+                  <l>In chaſe of Crows, not once regarding where</l>
+                  <l>Thou tak'ſt thy ſteppings, thorough thick and thin;</l>
+                  <l>And but to live to day, to day begin?</l>
+               </lg>
+               <lg>
+                  <l>Now let me freely give my thoughts, what I</l>
+                  <l>Do read, will prove, in fine, thy deſtiny.</l>
+                  <l>Th'art well (thou think'ſt) in health, alas, poor Sot!</l>
+                  <l>Thou art diſeas'd, and ſick, and know'ſt it not.</l>
+                  <l>When a Diſeaſe is creeping on, be ſure</l>
+                  <l>In time to meet with't, and 'tis half the cure:</l>
+                  <l>If once thy pale Hydropick skin do ſwell,</l>
+                  <l>No Hellebore's enough to make thee well.</l>
+                  <l>Delay a while, not all thy Golden Fee</l>
+                  <l>Will do; though <hi>Graterus</hi> thy Doctor be,</l>
+                  <l>Not <hi>Craterus</hi> himſelf can cu-re thee.</l>
+               </lg>
+               <pb n="7" facs="tcp:57572:8"/>
+               <lg>
+                  <l>Learn then, unhappy Youth, betimes to know</l>
+                  <l>The Cauſer of all Cauſes here below.</l>
+                  <l>Next under him, with Loyalty and Fear</l>
+                  <l>Thy Soveraign Lord the King love and revere.</l>
+                  <l>Learn what we are,—and to what end we live;</l>
+                  <l>T' our ſelves, or him who life to us did give?</l>
+                  <l>Next, in what order learn to ſteer thy Courſe,</l>
+                  <l>Nor circumvented be by Fraud or Force,</l>
+                  <l>Till thou haſt gain'd the wiſhed Goal;—and then</l>
+                  <l>With nimble Turn ſmoothly wheel off agen.</l>
+                  <l>Let not the tempting Bait of Riches hold</l>
+                  <l>Thee baſely fetter'd in a Chain of Gold.</l>
+                  <l>Learn what 'tis fit to ask in Prayer, and ſo</l>
+                  <l>The lawful uſe of Money thou ſhalt know;</l>
+                  <l>How much on thy lov'd Country to expend,</l>
+                  <l>What on thy ſelf, thy Kinsfolk and thy Friend;</l>
+                  <l>Whether a Prince or Peaſant, learn with Art</l>
+                  <l>In this Life's Play wiſely to act thy part;</l>
+                  <l>A due <hi>Decorum</hi> keep in that degree</l>
+                  <l>The provident,—wiſe—God hath placed thee.</l>
+               </lg>
+               <lg>
+                  <l>Learn well theſe practick Points, by Heart, and ſo,</l>
+                  <l>Thou'lt bid Defiance to thy deadly'ſt Foe.</l>
+                  <l>Thou wilt not Then envy the too great ſtore</l>
+                  <l>Of Preſents new ſent in, more after more,</l>
+                  <l>From the rich Umbrian Churl, and the fat <hi>Mar<g ref="char:EOLhyphen"/>ſian</hi> Boor:</l>
+                  <l>Fat Ven'ſon, dry'd Neats-Tongue, Weſt-phaly-Ham,</l>
+                  <l>Sturgeon, Anchove, with elſe what you can name,</l>
+                  <l>To greaſe the Lawyer, and to oyl his Tongue</l>
+                  <l>
+                     <gap reason="illegible" resp="#UOM" extent="1 line">
+                        <desc>〈1 line〉</desc>
+                     </gap>
+                  </l>
+               </lg>
+               <pb n="8" facs="tcp:57572:9"/>
+               <lg>
+                  <l>But after all my Counſel to thee lay'd,</l>
+                  <l>Still I miſtake the man, I am afraid.</l>
+               </lg>
+               <lg>
+                  <l>Thou'lt ſay, (it's like) as the bold man of War,</l>
+                  <l>Some Huffing, Rough-Centurion-Swaggerer:</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Centurio.</speaker>
+               <lg>
+                  <l>What tell you me of theſe things? What care I</l>
+               </lg>
+               <lg>
+                  <l>A F—ig for all your Crab-Philoſophy?</l>
+                  <l>I've Wit enough, I trow, to ſerve my turn,</l>
+                  <l>Fore I'ld be ſuch as you deſcribe, I'ld burn.</l>
+                  <l>I value not your whining <hi>Solons,</hi>—I</l>
+                  <l>Your dull <hi>Arceſil</hi>—Aſſes all defie,</l>
+                  <l>Obſerve their Poſture juſt,—and then refrain,</l>
+                  <l>If poſſible, from laughing—out amain.</l>
+                  <l>Like Mad-men (as they are) their Necks awry,</l>
+                  <l>Down lowting on the ground,—with fixed eye;</l>
+                  <l>Poyſing, on Lips outſtretch'd, each Syllable,</l>
+                  <l>And, in a buzzing tone, ſcarce audible,</l>
+                  <l>Champing, and muttering ſoftly, to themſelves,</l>
+                  <l>The Dreams of old—ſick—men,—and Frantick Spells:</l>
+               </lg>
+               <lg>
+                  <l>That out of Nothing, Nothing e're began,</l>
+               </lg>
+               <lg>
+                  <l>And into Nothing, Nothing returns again.</l>
+                  <l>Is This it—makes them look ſo pale?—Is't this,</l>
+                  <l>Their Dinners they ſo oft on purpoſe miſs?</l>
+                  <l>How ſcorn'd theſe Fellows are, about the Town,</l>
+                  <l>To ſee, and hear, is richly worth a Crown.</l>
+                  <l>The People flout them;-And our Gallants,-they,</l>
+                  <l>Criſping their Noſes, in Ironick way,</l>
+                  <l>Deride them with a Trembling Ha-ha-he.</l>
+               </lg>
+            </sp>
+            <pb n="9" facs="tcp:57572:10"/>
+            <sp>
+               <speaker>Tut.</speaker>
+               <l>Well,—be it ſo;—But let them laugh that win;</l>
+               <l>Theſe little know the danger they are in:</l>
+               <l>But—do not <hi>Thou</hi> ſcorn Learning,—leſt thy Fall,</l>
+               <l>With ſuch as Theſe,—prove ſadly Tragical.</l>
+               <l>I told thee once, (if thou haſt not forgot)</l>
+               <l>Thou waſt Diſeas'd and Sick,—and knew'ſt it not:</l>
+               <l>What more I have to tell thee—well attend;</l>
+               <l>Wiſely apply it to a better End.</l>
+            </sp>
+            <sp>
+               <speaker>Aegrot.</speaker>
+               <lg>
+                  <l>One in a Feaver, once to's Doctor ſaid,</l>
+                  <l>Pray, good Sir, feel my Pulſe: I am afraid,</l>
+                  <l>All is not as it ſhould be; good Sir, ſee,</l>
+                  <l>My Throbbing Heart beats at a <hi>ſtrange</hi> degree;</l>
+                  <l>And my ſick Jaws a fulſome ſtench exhale</l>
+                  <l>From my parch'd Entrails, though my Skin look pale.</l>
+               </lg>
+               <lg>
+                  <l>The Doctor try'd the utmoſt of his Skill</l>
+                  <l>On this his Patient,—charg'd him to be ſtill,</l>
+                  <l>And to keep in five or ſix dayes at leaſt;</l>
+                  <l>By then, he hop'd the danger would be paſt.</l>
+               </lg>
+               <lg>
+                  <l>'Soon as he finds himſelf in better plight,</l>
+                  <l>His Veins in order flow, his Pulſe beat right,</l>
+                  <l>His heat's abated,—Now, on the third Night,</l>
+                  <l>Nothing would ſerve him, but he needs muſt ſend</l>
+                  <l>His Man, Poſt-haſte, to ſuch a wealthy Friend,</l>
+                  <l>To ſend him of his mild <hi>Surrentine</hi> Wine,</l>
+                  <l>A full Quart Flagon, that was Brisk and Fine:</l>
+                  <l>This ſoon quaff'd off,—away to Bath goes he,</l>
+                  <l>Where, in the nick, his Doctor chanc'd to be.</l>
+                  <pb n="10" facs="tcp:57572:11"/>
+                  <l>The Honeſt good Phyſician ſtartled was,</l>
+                  <l>To ſee his Patient there,—in ſuch a caſe.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Medicus.</speaker>
+               <p>D'y' hear, good Sir, —Why you look wonderous pale,</p>
+            </sp>
+            <sp>
+               <speaker>Aegrotus.</speaker>
+               <p>Phugh,—Sir,—That's <hi>nothing,</hi>—no,— I <hi>nothing</hi> aile.</p>
+            </sp>
+            <sp>
+               <speaker>Med.</speaker>
+               <l>Yet pray, look to't, <hi>that Nothing</hi> do not tend</l>
+               <l>To <hi>Something</hi> you'll repent of in the End:</l>
+               <l>Your Life lies on't, to me 'tis plain enough;</l>
+               <l>Your Sallow tawny Skin begins to huff.</l>
+            </sp>
+            <sp>
+               <speaker>Aegrot.</speaker>
+               <l>But you look paler, to a worſe degree,</l>
+               <l>Pray, good Sir, be not Tutor unto me:</l>
+               <l>I come not here thus to affronted be.</l>
+               <l>I've follow'd one already to his Grave;</l>
+               <l>
+                  <hi>Next turn</hi> is <hi>Yours, good Tutor, mine</hi> to have.</l>
+            </sp>
+            <sp>
+               <speaker>Med.</speaker>
+               <l>Nay, If indeed upon theſe <hi>Points</hi> you go,</l>
+               <l>Then,—Take your Courſe;—I'l ſay no more but ſo.</l>
+            </sp>
+            <sp>
+               <speaker>Tut.</speaker>
+               <lg>
+                  <l>Now—Gentle Sir,—Obſerve in this your Plea</l>
+                  <l>For ſuch young Gallants the Cataſtrophe.</l>
+               </lg>
+               <lg>
+                  <l>He, and his pale-white Belly,—ſtrutting out,</l>
+                  <l>And cramm'd with Belly-Cheer up to the Throat,</l>
+                  <l>Needs, after Supper, into Bath muſt go;</l>
+                  <l>And next the Iliad follows of his Woe.</l>
+                  <l>Foul ſtench he breaths, with Exhalations raw,</l>
+                  <l>In ſowre Belchings, from a putrid Maw:</l>
+                  <l>A Trembling ſeizes him, the while he ſtands</l>
+                  <l>Drinking, and ſhakes the Bowl out of his hands;</l>
+                  <pb n="11" facs="tcp:57572:12"/>
+                  <l>Through <hi>parched Lips</hi> (which were before a Screen</l>
+                  <l>To h's Teeth)—his chattering Teeth are naked ſeen.</l>
+                  <l>And then, through his laxe Jaws he vomits up</l>
+                  <l>The greaſie Morſels whereon he did Sup.</l>
+               </lg>
+               <lg>
+                  <l>Next news we hear,-our gallant Youth Reverſe,</l>
+                  <l>Laid out in ſtate upon his pompous Herſe,</l>
+                  <l>Richly Embalm'd; Extending tow'rds the Gate,</l>
+                  <l>His Rigid-Cold-ſtiff Heels;—and (growing late)</l>
+                  <l>Aloud the Trumpets an Alarum ſound,</l>
+                  <l>Whoſe Echo from the neighbouring Hills rebound.</l>
+                  <l>The blazing Flambeaus counterfeit a Day;</l>
+                  <l>The Heraulds, marſhalled along the way,</l>
+                  <l>His high Aſpirings; and th' exalted Fame</l>
+                  <l>Of his Renowned Anceſtors proclaim;</l>
+                  <l>This done;—his yeſterdays new bond-freed-men,</l>
+                  <l>Gay in their Bonnets, their dead Lord attend;</l>
+                  <l>Hoiſe up his Corps upon their backs,—and So,</l>
+                  <l>Next way with him, to h's Funeral Pile they go.</l>
+               </lg>
+               <q>—Sic tranſit Gloria Mundi.</q>
+               <lg>
+                  <l>And here's the end of Him would not ſubmit,</l>
+                  <l>To h's Doctors Rules, for his own benefit!</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Diſoip.</speaker>
+               <l>What! then (belike) this Story's lay'd to me?</l>
+               <l>But, (ſilly Man) y'are out: for I am free</l>
+               <l>From all Diſtemper: Feel my Pulſe, and try;</l>
+               <l>My blood in every vein flows orderly;</l>
+               <pb n="12" facs="tcp:57572:13"/>
+               <l>Nor hands, nor feet affected are with Cold,</l>
+               <l>But ſtill one conſtant even Temper hold.</l>
+               <l>No Fluſhing Heats, no Trembling of the Heart,</l>
+               <l>But ſound, both Wind and Limb, in every part.</l>
+            </sp>
+            <sp>
+               <speaker>Tut.</speaker>
+               <lg>
+                  <l>All this may be, I grant;—and ſtill I ſay,</l>
+                  <l>Thou art Diſeas'd, and Sick,—another way.</l>
+                  <l>Thy Body's but the Caſe;—poor ſorry Pelf!</l>
+                  <l>It is thy Soul, I mean thy better Self:</l>
+                  <l>Thy Soul,—that Particle Divine in Man!</l>
+                  <l>'Tis that is ſick;—deny it, if thou can.</l>
+                  <l>For,—let me ask thee:—Shouldſt thou hap to ſpy</l>
+                  <l>New minted Gold, a Bank, before thee lye;</l>
+                  <l>No Eye upon thee, free Acceſs unto't;</l>
+                  <l>As free, and ſafe Retreat, ſuppoſe, to boot;</l>
+                  <l>Would then thy Heart beat right? So there's on Vice,</l>
+                  <l>The ſlie Diſeaſe of Craving Avarice.</l>
+               </lg>
+               <lg>
+                  <l>Again,—Should ſome deft, lovely Girl, by chance,</l>
+                  <l>An amorous dimpled Smile upon thee glance;</l>
+                  <l>How would thy Feveriſh fluſhing heats diſcover</l>
+                  <l>The frail Diſtempers of a fond ſick Lover?</l>
+               </lg>
+               <lg>
+                  <l>Suppoſe again, ſome one ſhould bring to eat,</l>
+                  <l>In a cold Pan, ſome ſapleſs, raw cold Beet,</l>
+                  <pb n="13" facs="tcp:57572:14"/>
+                  <l>With courſe brown Bread, and Colewort for thy Dinner,</l>
+                  <l>And tell thee:—Theſe are Dainties for a Sin<g ref="char:EOLhyphen"/>ner:</l>
+                  <l>Let's try thy Chaps:—Lo! there's an Ulcer grown,</l>
+                  <l>Too ſore for ſuch rough Beets to grate upon!</l>
+               </lg>
+               <lg>
+                  <l>So thou that nothing ailedſt, add to theſe</l>
+                  <l>A third, Soft Luxury, that She-Diſeaſe.</l>
+               </lg>
+               <lg>
+                  <l>When a damp Aguiſh Fear ſtrikes through thy Heart,</l>
+                  <l>Sets thee all o're a ſhivering, every part;</l>
+                  <l>And makes thy Hairs, in this amazing Fright,</l>
+                  <l>Like Beards of Corn, ſtiff, ſtaring bolt-upright,</l>
+                  <l>Thou nor affected art with Heat, nor Cold,</l>
+                  <l>But doſt one conſtant, even temper hold.</l>
+               </lg>
+               <lg>
+                  <l>Look up, Man! Fie!—What!—<hi>So white<g ref="char:EOLhyphen"/>liver'd art?</hi>
+                  </l>
+                  <l>Some Cordial Spirits fetch to chear his Heart!</l>
+               </lg>
+               <lg>
+                  <l>Is <hi>This He, nothing ailes!</hi>—Behold a Vice,</l>
+                  <l>Transforms Men into Stone!—Baſe Cowardiſe!</l>
+               </lg>
+               <lg>
+                  <l>And now the <hi>Cold</hi> Fit's over comes the <hi>Hot,</hi>
+                  </l>
+                  <l>Thy blood enflam'd, boyls over like a Pot</l>
+                  <l>With brands put under;—and with burning Ire</l>
+                  <l>Thy fierce, revengeful, ſparkling Eyes dart Fire</l>
+                  <pb n="14" facs="tcp:57572:15"/>
+                  <l>Thou ſay'ſt and doſt what Rage and Fury can</l>
+                  <l>Force on thee in this boiſterous Hurrican;—</l>
+                  <l>That <hi>Bedlam-mad</hi> Oreſtes <hi>now would Swear,</hi>
+                  </l>
+                  <l>
+                     <hi>None,</hi> but <hi>one Bedlam-mad, would ever dare.</hi>
+                  </l>
+               </lg>
+            </sp>
+            <trailer>
+               <hi>Here Ends the Third Satyr of</hi> A. Perſius.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
